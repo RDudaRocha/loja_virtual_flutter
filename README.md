@@ -1,16 +1,34 @@
-# sampa
+<p align="center"><img style="width: 300px;" alt="LOGO" src="https://github.com/RDudaRocha/loja_virtual_flutter/blob/master/imagens/logo.png"></p>
+<h2 align="center">Loja Virtual Flutter</h2>
 
-A new Flutter project.
+<p align="center">
+   <a href="https://www.linkedin.com/in/duda-rocha-809461162/">
+      <img alt="Duda Rocha" src="https://img.shields.io/badge/-Duda Rocha-1360e0?style=flat&logo=Linkedin&logoColor=white" />
+   </a>  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-1360e0">
+</p>
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+O objetivo desse aplicativo foi desenvolver um layout responsivo com flutter e ainda está em desenvolvimento.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [x] Layout Responsivo;
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Preview da aplicação
+
+<h1 align="center">
+   <img src="https://github.com/RDudaRocha/loja_virtual_flutter/blob/master/imagens/testeapp.gif" alt="Preview app"/>
+</h1>
+
+## 🛠 Tecnologias utilizadas
+
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+
+- Flutter
+- Dart
+
+<p align= center>
+Desenvolvido por <strong>Duda Rocha</strong>   -----   Me adicione no <a href="https://www.linkedin.com/in/duda-rocha-809461162/"target="_blank">Linkedin</a>
+</p>
